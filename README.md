@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I am Jacob</h1>
 <h3 align="center">a software engineer at Grainger</h3>
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Service Virtualization**
+🌱 I’m currently learning **AWS, Kubernetes, Service Virtualization**
 
-- 💬 Ask me about AWS
+💬 Ask me about AWS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
